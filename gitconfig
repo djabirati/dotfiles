@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marthadidjabirati@gmail.com
+	name = Djabirati Marthadi
